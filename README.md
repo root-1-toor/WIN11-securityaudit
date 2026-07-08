@@ -2,7 +2,7 @@
 #Requires -Version 5.1
 <#
 ================================================================================
-  PC-Security-Audit.ps1  â€”  Windows 11 Deep Diagnostic & Security Sweep
+  PC-Security-Audit.ps1  Windows 11 Deep Diagnostic & Security Sweep
 ================================================================================
   WHAT IT DOES
     1. Hardware inventory (CPU w/ live clocks, RAM, GPU, board, BIOS, network)
